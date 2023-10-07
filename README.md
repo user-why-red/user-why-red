@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋![Wallpaper (541)](https://github.com/user-why-red/user-why-red/assets/71686605/d279874c-69d8-4a6a-bbaa-7cc8cb5e4b27)
+
 
 [![user-why-red's github stats](https://github-readme-stats.vercel.app/api?username=user-why-red&show_icons=true&theme=cobalt&count_private=true)](https://github.com/user-why-red)
 
