@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-### Dont hesitate to tell me "Your are noob bro" :)
+### Dont hesitate to tell me "You are noob bro" :)
 
 [![user-why-red's github stats](https://github-readme-stats.vercel.app/api?username=user-why-red&show_icons=true&theme=cobalt&count_private=true)](https://github.com/user-why-red)
 
