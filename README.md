@@ -1,5 +1,7 @@
 ### Hi there 👋!
 
+### Dont hesitate to tell me "Your are noob bro" :)
+
 [![user-why-red's github stats](https://github-readme-stats.vercel.app/api?username=user-why-red&show_icons=true&theme=cobalt&count_private=true)](https://github.com/user-why-red)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-why-red&layout=compact&theme=cobalt)](https://github.com/user-why-red)
