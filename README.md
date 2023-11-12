@@ -7,15 +7,16 @@
   <img src="https://badges.pufler.dev/commits/monthly/user-why-red">
 </p>
 
-## Metrics
-
-<p align="center">
-  <img src="https://github.com/user-why-red/user-why-red/blob/main/github-metrics.svg" alt="user-why-red">
-</p>
 
 [![user-why-red's github stats](https://github-readme-stats.vercel.app/api?username=user-why-red&show_icons=true&theme=cobalt&count_private=true)](https://github.com/user-why-red)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-why-red&layout=compact&theme=cobalt)](https://github.com/user-why-red)
+
+## Streak
+<p href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=user-why-red&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
+</p>
+</br>
 
 <!--
 **user-why-red/user-why-red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
