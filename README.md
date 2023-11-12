@@ -18,6 +18,11 @@
 </p>
 </br>
 
+## Contribution Graph
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=user-why-red&text_color=a3a3a3&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3&theme=redical&area=true&area_color=a3a3a3">
+</p>
+
 <!--
 **user-why-red/user-why-red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
