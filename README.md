@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-### Dont hesitate to tell me "You are noob bro" :)
+### Iam Santhosh aka user_why_red 🤗!
 
 ### 💻 Current working environments
 [![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Debian+GNU/Linux&color=1793D1&logo=Debian+GNU/Linux&logoColor=FFFFFF&label=)](https://debian.org)
