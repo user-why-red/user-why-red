@@ -179,12 +179,12 @@
 ## Stats And Languages
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=user-why-red&show_icons=true&theme=dracula&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3&show=prs_merged,prs_merged_percentage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=user-why-red&show_icons=true&theme=onedark&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3&show=prs_merged,prs_merged_percentage">
 </a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-why-red&theme=dracula&layout=donut&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-why-red&theme=synthwave&layout=donut&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
 </a>
 
 ## Streak
