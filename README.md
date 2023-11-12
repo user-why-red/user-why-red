@@ -8,10 +8,6 @@
 </p>
 
 ## Metrics
-<br>
-<p align="center">
-  <img src="https://github.com/user-why-red/user-why-red/actions/workflows/main.yml/badge.svg" alt="https://github.com/user-why-red/user-why-red/actions/workflows/main.yml">
-</p>
 
 <p align="center">
   <img src="https://github.com/user-why-red/user-why-red/blob/main/github-metrics.svg" alt="user-why-red">
