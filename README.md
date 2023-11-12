@@ -2,6 +2,10 @@
 
 ### Dont hesitate to tell me "You are noob bro" :)
 
+### 💻 Current working environments
+[![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Debian+Linux&color=1793D1&logo=Debian+Linux&logoColor=FFFFFF&label=)](https://debian.org)
+[![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)](https://android.com/)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=user-why-red&style=flat-square" alt="user-why-red">
   <img src="https://badges.pufler.dev/commits/monthly/user-why-red">
