@@ -184,7 +184,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-why-red&theme=radical&layout=donut&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-why-red&theme=radical&layout=donut&hide_rank=false&border_radius=10&line_height=28&hide_border=true">
 </a>
 
 ## Streak
