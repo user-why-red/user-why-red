@@ -4,7 +4,7 @@
 
 > You can connect with me in following ways.
 
-[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/user-why-red) 
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/user_why_red) 
 
 ### 💻 Current working environments
 [![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Debian+GNU/Linux&color=1793D1&logo=Debian+GNU/Linux&logoColor=FFFFFF&label=)](https://debian.org)
