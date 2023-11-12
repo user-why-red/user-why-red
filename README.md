@@ -7,6 +7,16 @@
   <img src="https://badges.pufler.dev/commits/monthly/user-why-red">
 </p>
 
+## Metrics
+<br>
+<p align="center">
+  <img src="https://github.com/user-why-red/user-why-red/actions/workflows/main.yml/badge.svg" alt="https://github.com/user-why-red/user-why-red/actions/workflows/main.yml">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-why-red/user-why-red/blob/main/github-metrics.svg" alt="user-why-red">
+</p>
+
 [![user-why-red's github stats](https://github-readme-stats.vercel.app/api?username=user-why-red&show_icons=true&theme=cobalt&count_private=true)](https://github.com/user-why-red)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-why-red&layout=compact&theme=cobalt)](https://github.com/user-why-red)
