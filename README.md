@@ -7,11 +7,15 @@
   <img src="https://badges.pufler.dev/commits/monthly/user-why-red">
 </p>
 
+## Stats And Languages
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=user-why-red&show_icons=true&theme=cobalt&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3&show=prs_merged,prs_merged_percentage">
+</a>
 
-[![user-why-red's github stats](https://github-readme-stats.vercel.app/api?username=user-why-red&show_icons=true&theme=cobalt&count_private=true)](https://github.com/user-why-red)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-why-red&layout=compact&theme=cobalt)](https://github.com/user-why-red)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-why-red&theme=cobalt&layout=donut&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
+</a>
 ## Streak
 <p href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=user-why-red&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
