@@ -7,7 +7,10 @@
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/user_why_red) 
 
 ### What iam currently working in?
+• Iam currently working android kernel development for device redmi note 5 pro(Whyred).
 • https://github.com/Whyred-Dynamic-Development/san_kernel_sdm660_4
+• Also iam working in San-GCC toolchain,bringing bare metal toolchain for linux kernel development.
+• https://github.com/user-why-red/san_gcc_toolchain_arm
 
 ### 💻 Current working environments
 [![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Debian+GNU/Linux&color=1793D1&logo=Debian+GNU/Linux&logoColor=FFFFFF&label=)](https://debian.org)
