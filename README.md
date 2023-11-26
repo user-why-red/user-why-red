@@ -6,6 +6,9 @@
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/user_why_red) 
 
+### What iam currently working in?
+• https://github.com/Whyred-Dynamic-Development/san_kernel_sdm660_4
+
 ### 💻 Current working environments
 [![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Debian+GNU/Linux&color=1793D1&logo=Debian+GNU/Linux&logoColor=FFFFFF&label=)](https://debian.org)
 [![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)](https://android.com/)
