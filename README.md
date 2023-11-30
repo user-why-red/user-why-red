@@ -7,7 +7,7 @@
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/user_why_red) 
 
 ### What iam currently working in?
-• Iam currently working in android kernel development for device redmi note 5 pro(Whyred).
+• Iam currently working in android kernel development for device redmi note 5 pro(Whyred) & note 6 pro(Tulip).
 
 • https://github.com/Whyred-Dynamic-Development/san_kernel_sdm660_4
 
