@@ -9,7 +9,7 @@
 ### What iam currently working in?
 • Iam currently working in android kernel development for device redmi note 5 pro(Whyred) & note 6 pro(Tulip).
 
-• https://github.com/Whyred-Dynamic-Development/san_kernel_sdm660_4
+• https://github.com/user-why-red/san_kernel_xiaomi_sdm660_44
 
 • Also iam working in San-GCC toolchain,bringing bare metal toolchain for linux kernel development.
 
