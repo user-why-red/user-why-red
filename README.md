@@ -11,6 +11,9 @@
 
 • https://github.com/user-why-red/san_kernel_xiaomi_sdm660_44
 
+•
+https://github.com/user-why-red/san_kernel_xiaomi_sdm660_419
+
 • Also iam working in San-GCC toolchain,bringing bare metal toolchain for linux kernel development.
 
 • https://github.com/user-why-red/san_gcc_toolchain_arm
