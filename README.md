@@ -1,8 +1,20 @@
 ### Hi there 👋
 
-[![user-why-red's github stats](https://github-readme-stats.vercel.app/api?username=user-why-red&show_icons=true&theme=cobalt&count_private=true)](https://github.com/user-why-red)
+## Stats And Languages
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=user-why-red&show_icons=true&theme=radical&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&show=prs_merged,prs_merged_percentage">
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-why-red&layout=compact&theme=cobalt)](https://github.com/user-why-red)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-why-red&theme=radical&layout=donut&hide_rank=false&border_radius=10&line_height=28&hide_border=true">
+</a>
+
+## Streak
+<p href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=user-why-red&theme=radical&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
+</p>
+</br>
 
 <!--
 **user-why-red/user-why-red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
