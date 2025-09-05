@@ -12,6 +12,12 @@
 </p>
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/user-why-red/user-why-red/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/user-why-red/user-why-red/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/user-why-red/user-why-red/refs/heads/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=user-why-red&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
