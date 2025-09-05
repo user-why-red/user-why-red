@@ -1,20 +1,14 @@
 ### Hi there 👋
 
 ## Stats And Languages
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=user-why-red&show_icons=true&theme=radical&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&show=prs_merged,prs_merged_percentage">
+<p align="center">
+<a href="https://github.com/user-why-red">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=user-why-red&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=user-why-red&theme=nightowl&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=user-why-red&layout=compact&langs_count=8&theme=nightowl&hide_border=true"/>
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user-why-red&theme=radical&layout=donut&hide_rank=false&border_radius=10&line_height=28&hide_border=true">
-</a>
-
-## Streak
-<p href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=user-why-red&theme=radical&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
 </p>
-</br>
+<br>
 
 # GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=user-why-red&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
