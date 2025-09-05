@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+<h2 align="center">Hi there!, I'm Santhosh, a.k.a user-why-red</h2>
+</p>
 
 ## Stats And Languages
 <p align="center">
@@ -10,7 +12,7 @@
 </p>
 <br>
 
-# GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=user-why-red&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 <!--
