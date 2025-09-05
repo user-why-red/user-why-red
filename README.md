@@ -21,6 +21,11 @@
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=user-why-red&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
+## GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user-why-red&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
 <!--
 **user-why-red/user-why-red** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
