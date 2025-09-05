@@ -16,9 +16,6 @@
 </p>
 </br>
 
-# Holopin Board
-[![Holopin board](https://holopin.io/api/user/board?user=user-why-red)](https://holopin.io/@user-why-red)
-
 # GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=user-why-red&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
