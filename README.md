@@ -3,9 +3,9 @@
 ## Stats And Languages
 <p align="center">
 <a href="https://github.com/user-why-red">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=user-why-red&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=user-why-red&theme=nightowl&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=user-why-red&layout=compact&langs_count=8&theme=nightowl&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=user-why-red&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=user-why-red&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=user-why-red&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </a>
 </p>
 <br>
